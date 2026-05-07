@@ -62,7 +62,7 @@ rpg-bardo-louco/
 ## 🛤️ A jornada
 
 Este projeto não nasceu pronto. Ele foi sendo construído errando, quebrando e refatorando.  
-Toda essa trajetória está documentada em [`docs/JORNADA.md`](docs/JORNADA.md) — leitura recomendada
+Toda essa trajetória está documentada em [`docs/JORNADA.MD`](docs/JORNADA.MD) — leitura recomendada
 pra quem está começando em POO.
 
 ---
