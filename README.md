@@ -69,7 +69,7 @@ pra quem está começando em POO.
 
 ## ✍️ Autor
 
-**[Seu Nome]** — em jornada de aprendizado contínuo.  
+**Renato Barros de Carvalho**
 Primeira aula prática de Orientação a Objetos.
 
 ---
